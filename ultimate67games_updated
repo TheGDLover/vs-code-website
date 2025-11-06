@@ -1,0 +1,853 @@
+<!DOCTYPE html>
+
+<html lang="en"><head>
+<meta charset="utf-8"/>
+<title>Ultimate 6'7 Games</title>
+<style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      background: #111;
+      color: white;
+      text-align: center;
+    }
+    h1 {
+      margin: 20px 0;
+      font-size: 2.5em;
+    }
+    .info-text {
+      max-width: 800px;
+      margin: 0 auto 30px;
+      padding: 15px 20px;
+      font-size: 16px;
+      line-height: 1.6;
+      color: #ccc;
+      background: rgba(255, 255, 255, 0.05);
+      border-radius: 10px;
+      text-align: left;
+    }
+    .game-button {
+      display: inline-block;
+      margin: 8px;
+      padding: 12px 20px;
+      font-size: 16px;
+      background: #222;
+      color: #fff;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+    .game-button:hover {
+      background: #444;
+    }
+    #particles-js {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: -1;
+    }
+  </style>
+<style id="operaUserStyle" type="text/css"></style><style type="text/css">:root img[width="728"][height="90"], :root [href="https://adstub.net/cina777/"], :root [href="https://adstub.net/arab777/"], :root [href="https://adstub.net/ratu89/"], :root [href="https://adstub.net/judi89/"], :root [href^="//mage98rquewz.com/"], :root [href^="//x4pollyxxpush.com/"], :root span[id^="ezoic-pub-ad-placeholder-"], :root ins.adsbygoogle[data-ad-slot], :root ins.adsbygoogle[data-ad-client], :root img[src^="https://s-img.adskeeper.com/"], :root guj-ad, :root gpt-ad, :root div[id^="zergnet-widget"], :root div[id^="vuukle-ad-"], :root div[id^="taboola-stream-"], :root div[id^="sticky_ad_"], :root div[id^="st"][style^="z-index: 999999999;"], :root div[id^="gpt_ad_"], :root div[id^="ezoic-pub-ad-"], :root div[id^="dfp-ad-"], :root div[id^="crt-"][style], :root div[id^="adspot-"], :root div[id^="adrotate_widgets-"], :root ps-connatix-module, :root div[id^="ad_position_"], :root div[id^="ad-div-"], :root div[id*="ScriptRoot"], :root div[id*="MarketGid"], :root [href="https://adstub.net/rusia777/"], :root div[data-id-advertdfpconf], :root div[data-dfp-id], :root hl-adsense, :root div[data-contentexchange-widget], :root div[data-alias="300x250 Ad 2"], :root div[data-adzone], :root div[data-adunit-path], :root div[data-adname], :root div[data-ad-targeting], :root div[data-ad-region], :root div[data-ad-placeholder], :root div[aria-label="Ads"], :root display-ads, :root display-ad-component, :root atf-ad-slot, :root aside[id^="adrotate_widgets-"], :root amp-fx-flying-carpet, :root amp-embed[type="taboola"], :root amp-connatix-player, :root amp-ad-custom, :root amp-ad, :root div[id^="google_dfp_"], :root ad-slot, :root ad-shield-ads, :root a[style="width:100%;height:100%;z-index:10000000000000000;position:absolute;top:0;left:0;"], :root a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"] + .ob_source, :root a[onclick^="window.location.replace('https://random-affiliate.atimaze.com/"], :root a[href^="https://xbet-4.com/"], :root div[id^="ad-position-"], :root a[href^="https://www.toprevenuegate.com/"], :root a[href^="https://www.purevpn.com/"][href*="&utm_source=aff-"], :root a[href^="https://www.privateinternetaccess.com/"] > img, :root a[href^="https://financeads.net/tc.php?"], :root a[href^="https://www.mrskin.com/tour"], :root a[href^="https://www.infowarsstore.com/"] > img, :root a[href^="https://www.highperformancecpmgate.com/"], :root a[href^="https://www.highcpmrevenuenetwork.com/"], :root a[href^="https://www.get-express-vpn.com/offer/"], :root a[href^="https://lnkxt.bannerator.com/"], :root a[href^="https://www.geekbuying.com/dynamic-ads/"], :root a[href^="https://www.financeads.net/tc.php?"], :root a[href^="https://www.effectiveratecpm.com/"], :root [href^="https://www.herbanomic.com/"] > img, :root a[href^="https://maymooth-stopic.com/"], :root a[href^="https://www.dql2clk.com/"], :root a[href^="https://www.nutaku.net/signup/landing/"], :root a[href^="https://www.dating-finder.com/signup/?ai_d="], :root a[href^="https://explore-site.com/"], :root a[href^="https://www.brazzersnetwork.com/landing/"], :root [data-template-type="nativead"], :root a[href^="https://www.endorico.com/Smartlink/"], :root a[href^="https://www.adultempire.com/"][href*="?partner_id="], :root a[href^="https://voluum.prom-xcams.com/"], :root a[href^="https://twinrdsyte.com/"], :root a[href^="https://twinrdsrv.com/"], :root a[href^="https://trk.nfl-online-streams.club/"], :root a[href^="https://tracking.avapartner.com/"], :root a[href^="https://track.wg-aff.com"], :root a[href^="https://track.ultravpn.com/"], :root a[href^="https://track.afcpatrk.com/"], :root a[href^="https://torguard.net/aff.php"] > img, :root [data-identity="adhesive-ad"], :root a[href^="https://tc.tradetracker.net/"] > img, :root a[href^="https://tatrck.com/"], :root a[href^="https://click.candyoffers.com/"], :root [href^="https://zstacklife.com/"] img, :root a[href^="https://t.aslnk.link/"], :root a[href^="https://t.adating.link/"], :root a[href^="https://go.trackitalltheway.com/"], :root [href^="https://track.fiverr.com/visit/"] > img, :root a[href^="https://syndication.exoclick.com/"], :root a[href^="https://syndication.dynsrvtbg.com/"], :root div[data-alias="300x250 Ad 1"], :root a[href^="https://syndicate.contentsserved.com/"], :root a[href^="https://svb-analytics.trackerrr.com/"], :root a[href^="https://track.aftrk5.com/"], :root a[href^="https://slkmis.com/"], :root a[href^="https://myclick-2.com/"], :root a[href^="https://sexynearme.com/"], :root [data-ad-manager-id], :root a[href^="https://s.zlinkr.com/"], :root bottomadblock, :root a[href^="https://s.zlinkd.com/"], :root [href="https://adstub.net/gaza88/"], :root a[href^="https://ad.doubleclick.net/"], :root a[href^="https://static.fleshlight.com/images/banners/"], :root a[href^="https://s.zlink7.com/"], :root a[href^="https://s.zlink3.com/"], :root a[href^="https://www.mrskin.com/account/"], :root a[href^="https://s.optzsrv.com/"], :root a[href^="https://s.ma3ion.com/"], :root a[href^="https://s.eunow4u.com/"], :root #kt_player > div[style$="display: block;"][style*="inset: 0px;"], :root [href$="/sexdating.php"], :root a[href^="https://quotationfirearmrevision.com/"], :root a[href^="https://pubads.g.doubleclick.net/"], :root a[href^="https://prf.hn/click/"][href*="/camref:"] > img, :root a[href^="https://www.dating-finder.com/?ai_d="], :root a[href^="https://serve.awmdelivery.com/"], :root a[href^="https://prf.hn/click/"][href*="/adref:"] > img, :root app-ad, :root [href^="https://ap.octopuspop.com/click/"] > img, :root a[href^="https://postback1win.com/"], :root a[href^="https://mmwebhandler.aff-online.com/"], :root a[href^="https://www.bet365.com/"][href*="affiliate="], :root a[href^="https://pb-track.com/"], :root a[href^="https://pb-front.com/"], :root a[href^="https://paid.outbrain.com/network/redir?"], :root a[href^="https://streamate.com/landing/click/"], :root div[class^="Adstyled__AdWrapper-"], :root a[href^="https://osfultrbriolenai.info/"], :root a[href^="https://upsups.click/"], :root a[href^="https://ndt5.net/"], :root a[href^="https://natour.naughtyamerica.com/track/"], :root a[href^="https://mediaserver.entainpartners.com/renderBanner.do?"], :root a[href^="https://lead1.pl/"], :root a[href^="https://landing.brazzersnetwork.com/"], :root a[href^="https://join.virtuallust3d.com/"], :root a[href^="https://kiksajex.com/"], :root a[href^="https://juicyads.in/"], :root a[href^="https://snowdayonline.xyz/"], :root a[href^="https://mediaserver.gvcaffiliates.com/renderBanner.do?"], :root a[href^="https://join.dreamsexworld.com/"], :root a[href^="https://join.bannedsextapes.com/track/"], :root a[href^="https://jaxofuna.com/"], :root a[href^="https://italarizege.xyz/"], :root a[href^="https://iqbroker.com/"][href*="?aff="], :root a[href^="https://identicaldrench.com/"], :root a[href^="https://hot-growngames.life/"], :root a[href^="https://helmethomicidal.com/"], :root a[href^="https://golinks.work/"], :root a[href^="https://s.zlinkn.com/"], :root a[href^="https://go.xxxvjmp.com/"], :root a[href^="https://go.xxxjmp.com"], :root [class^="tile-picker__CitrusBannerContainer-sc-"], :root a[href^="https://go.xxxiijmp.com"], :root a[href^="https://go.xtbaffiliates.com/"], :root [data-role="tile-ads-module"], :root a[href^="https://go.xlviirdr.com"], :root div[class$="-adlabel"], :root a[href^="https://go.xlviiirdr.com"], :root a[href^="https://ismlks.com/"], :root [href^="https://www.mypillow.com/"] > img, :root a[href^="https://go.xlirdr.com"], :root [data-css-class="dfp-inarticle"], :root a[href^="https://l.hyenadata.com/"], :root a[href^="https://go.tmrjmp.com"], :root a[href^="https://zirdough.net/"], :root a[href^="https://s.deltraff.com/"], :root a[href^="https://go.markets.com/visit/?bta="], :root a[href^="https://billing.purevpn.com/aff.php"] > img, :root a[href^="https://go.hpyrdr.com/"], :root a[href^="https://lijavaxa.com/"], :root a[href^="https://go.goaserv.com/"], :root a[href^="https://t.hrtye.com/"], :root a[href^="https://go.etoro.com/"] > img, :root a[href^="https://go.dmzjmp.com"], :root a[href^="https://www.bang.com/?aff="], :root #mgb-container > #mgb, :root a[href^="https://go.admjmp.com"], :root a[href^="https://ak.stikroltiltoowi.net/"], :root a[href^="https://get.surfshark.net/aff_c?"][href*="&aff_id="] > img, :root a[href^="https://www.adskeeper.com"], :root a[data-redirect^="https://paid.outbrain.com/network/redir?"], :root [href^="https://clicks.affstrack.com/"] > img, :root a[href^="https://engine.phn.doublepimp.com/"], :root a[href^="https://engine.blueistheneworanges.com/"], :root a[href^="https://drumskilxoa.click/"], :root a[href^="https://dl-protect.net/"], :root a[href*=".foxqck.com/"], :root a[href^="https://ctosrd.com/"], :root a[href^="https://clixtrac.com/"], :root [href^="https://noqreport.com/"] > img, :root a[href^="https://clicks.pipaffiliates.com/"], :root app-advertisement, :root a[href^="https://getmatchedlocally.com/"], :root a[href^="https://clickins.slixa.com/"], :root a[href^="https://datewhisper.life/"], :root a[href^="https://get-link.xyz/"], :root a[href^="https://click.linksynergy.com/fs-bin/"] > img, :root a[href^="https://combodef.com/"], :root a[href^="https://click.hoolig.app/"], :root a[href^="https://www.onlineusershielder.com/"], :root a[href^="https://click.ggpickaff.com/"], :root a[href^="https://track.totalav.com/"], :root a[href^="https://ctrdwm.com/"], :root img[src^="https://images.purevpnaffiliates.com"], :root a[href^="https://porntubemate.com/"], :root a[href^="https://clickadilla.com/"], :root a[href^="https://click.dtiserv2.com/"], :root a[href^="https://www.adxsrve.com/"], :root a[href^="https://click.Ggpickaff.com/"], :root a[href^="https://go.xlvirdr.com"], :root a[href^="http://www.iyalc.com/"], :root a[href^="https://stardomcoit.com/"], :root a[href^="https://claring-loccelkin.com/"], :root a[href^="https://bongacams2.com/track?"], :root a[href^="https://t.ajrkm1.com/"], :root a[href^="https://bongacams10.com/track?"], :root a[href^="https://www.sheetmusicplus.com/"][href*="?aff_id="], :root a[href^="https://bngpt.com/"], :root a[href^="https://black77854.com/"], :root a[href^="http://annulmentequitycereals.com/"], :root [data-taboola-options], :root a[href^="https://believessway.com/"], :root a[href^="https://Click.ggpickaff.com/"], :root a[href^="https://banners.livepartners.com/"], :root a[href^="http://revolvemockerycopper.com/"], :root a[href^="https://awptjmp.com/"], :root a[href^="https://join.sexworld3d.com/track/"], :root a[href^="https://aweptjmp.com/"], :root a[href^="https://ausoafab.net/"], :root a[href^="https://aj1070.online/"], :root a[href^="https://bc.game/"], :root a[href^="https://ak.oalsauwy.net/"], :root a[href^="https://a.bestcontentoperation.top/"], :root a[href^="https://adultfriendfinder.com/go/"], :root a[href^="https://ads.planetwin365affiliate.com/"], :root a[href^="https://ads.leovegas.com/"], :root .nya-slot[style], :root a[href^="https://a.bestcontentweb.top/"], :root a[href^="https://a2.adform.net/"], :root a[href^="https://a.candyai.love/"], :root a[href^="https://playnano.online/offerwalls/?ref="], :root a[href^="https://a.adtng.com/"], :root .banner-img > .pbl, :root [data-m-ad-id], :root a[href^="https://a-ads.com/"], :root [id^="ad_slider"], :root a[href^="https://click.ggpickyaff.com/"], :root broadstreet-zone-container, :root a[href^="https://ak.psaltauw.net/"], :root a[href^="https://1winpb.com/"], :root div[id^="rc-widget-"], :root a[href^="https://turnstileunavailablesite.com/"], :root a[href^="https://chaturbate.com/in/?"], :root a[href^="https://prf.hn/click/"][href*="/creativeref:"] > img, :root a[href*="&maxads="], :root a[href^="http://www.adultempire.com/unlimited/promo?"][href*="&partner_id="], :root a[href^="https://1betandgonow.com/"], :root div[id^="optidigital-adslot"], :root [href^="https://wsup.ai/"], :root a[href^="https://123-stream.org/"], :root a[href^="https://in.rabbtrk.com/"], :root a[href^="http://www.h4trck.com/"], :root a[href^="http://www.friendlyduck.com/AF_"], :root a[href^="http://partners.etoro.com/"], :root [href="https://chaturbate.jjgirls.com/"] > img, :root a[href^="http://cam4com.go2cloud.org/aff_c?"], :root a[href^="https://ads.betfair.com/redirect.aspx?"], :root a[href^="http://trk.globwo.online/"], :root a[href^="http://troopsassistedstupidity.com/"], :root a[href^="https://random-affiliate.atimaze.com/"], :root a-ad, :root a[href^="https://offhandpump.com/"], :root a[href^="http://stickingrepute.com/"], :root #slashboxes > .deals-rail, :root a[href^="http://join.brokestraightboys.com/track/"], :root a[href^="http://roadcontagion.com/"], :root a[href^="http://premonitioninventdisagree.com/"], :root [href^="http://mypillow.com/"] > img, :root a[href^="http://bongacams.com/track?"], :root a[href^="https://track.adform.net/"], :root a[href^="http://avthelkp.net/"], :root a[href^="https://a.medfoodhome.com/"], :root a[href^="https://engine.flixtrial.com/"], :root [data-type="ad-vertical"], :root a[href^="//startgaming.net/tienda/" i], :root a[href^="https://a.medfoodsafety.com/"], :root a[href^="//go.eabids.com/"], :root a[href^="//ejitsirdosha.net/"], :root a[href^=" https://www.friendlyduck.com/AF_"], :root [data-cl-spot-id], :root a[href*="/jump/next.php?r="], :root a[href^="https://go.rmishe.com/"], :root [href^="https://ilovemyfreedoms.com/landing-"], :root a[href^="https://syndication.optimizesrv.com/"], :root a[href*="//daichoho.com/"], :root a[href^="https://go.nordvpn.net/aff"] > img, :root .\[\&_\.gdprAdTransparencyCogWheelButton\]\:\!pjra-z-\[5\], :root [href^="http://clicks.totemcash.com/"], :root a[href^="https://ad.zanox.com/ppc/"] > img, :root a[href^="https://lone-pack.com/"], :root [data-d-ad-id], :root a[href*=".engine.adglare.net/"], :root a[href^="https://t.ajrkm3.com/"], :root [href^="https://aads.com/campaigns/"], :root a[href^="//stighoazon.com/"], :root div[id^="lazyad-"], :root a[href^="http://com-1.pro/"], :root [href^="https://www.profitablegatecpm.com/"], :root a[href*=".cfm?domain="][href*="&fp="], :root [data-ad-name], :root a[href^="https://loboclick.com/"], :root a[data-url^="https://vulpix.bet/?ref="], :root a[href^="https://ab.advertiserurl.com/aff/"], :root a[data-oburl^="https://paid.outbrain.com/network/redir?"], :root a[href^="https://go.xlivrdr.com"], :root [onclick^="location.href='https://1337x.vpnonly.site/"], :root [id^="section-ad-banner"], :root a[href^="https://www.goldenfrog.com/vyprvpn?offer_id="][href*="&aff_id="], :root a[href*="//jjgirls.com/sex/Chaturbate"], :root [id^="ad-wrap-"], :root [href^="https://zone.gotrackier.com/"], :root a[href^="http://sarcasmadvisor.com/"], :root [href^="https://www.restoro.com/"], :root [href^="https://www.targetingpartner.com/"], :root .section-subheader > .section-hotel-prices-header, :root [href^="https://www.hostg.xyz/"] > img, :root a[href^="http://adultfriendfinder.com/go/"], :root a[href^="https://fastestvpn.com/lifetime-special-deal?a_aid="], :root a[href^="https://tour.mrskin.com/"], :root [href^="https://www.brighteonstore.com/products/"] img, :root citrus-ad-wrapper, :root a[href^="https://go.grinsbest.com/"], :root a[href^="https://vo2.qrlsx.com/"], :root [href^="https://www.avantlink.com/click.php"] img, :root [href^="https://wwp.hoqodd.com/redirect-zone/"], :root div[id^="div-ads-"], :root [href^="https://rapidgator.net/article/premium/ref/"], :root [href^="https://join.girlsoutwest.com/"], :root a[href^="https://activate-game.com/"], :root .scroll-fixable.rail-right > .deals-rail, :root [data-wpas-zoneid], :root a[href^="https://track.aftrk3.com/"], :root [href^="https://join3.bannedsextapes.com"], :root a[href^="https://bodelen.com/"], :root a[href*=".g2afse.com/"], :root div[id^="adngin-"], :root [data-rc-widget], :root span[data-ez-ph-id], :root [href^="https://track.aftrk1.com/"], :root [href^="https://join.playboyplus.com/track/"], :root a[href^="https://go.xxxijmp.com"], :root [href^="https://istlnkcl.com/"], :root a[href^="https://t.acam.link/"], :root a[href^="https://go.strpjmp.com/"], :root [href^="https://url.totaladblock.com/"], :root a[href^="https://tm-offers.gamingadult.com/"], :root [href^="https://charmingdatings.life/"], :root [href="https://adstub.net/indo666/"], :root [href^="https://glersakr.com/"], :root a[href^="https://a.bestcontentfood.top/"], :root [href^="https://cpa.10kfreesilver.com/"], :root [data-id^="div-gpt-ad"], :root a[href^="https://tracker.loropartners.com/"], :root [href^="https://awbbjmp.com/"], :root div[ow-ad-unit-wrapper], :root a[data-href^="http://ads.trafficjunky.net/"], :root [data-advadstrackid], :root a[href^="https://www.friendlyduck.com/AF_"], :root [href^="https://ad1.adfarm1.adition.com/"], :root a[href^="https://bngprm.com/"], :root [href^="https://shiftnetwork.infusionsoft.com/go/"] > img, :root a[href^="https://go.bushheel.com/"], :root a[href^="https://ctjdwm.com/"], :root a[href^="https://camfapr.com/landing/click/"], :root div[data-ad-wrapper], :root .gnt_em_vp_c[data-g-s="vp_dk"], :root [href="//sexcams.plus/"], :root [href^="http://www.mypillow.com/"] > img, :root a[href^="https://promerycergerful.com/"], :root #kt_player > a[target="_blank"], :root [href="https://ourgoldguy.com/contact/"] img, :root .ob_container .item-container-obpd, :root [id^="div-gpt-ad"], :root [href="https://jdrucker.com/gold"] > img, :root a[href^="https://join.virtualtaboo.com/track/"], :root [id^="ad_sky"], :root [name^="google_ads_iframe"], :root a[href^="https://www.liquidfire.mobi/"], :root .grid > .container > #aside-promotion, :root DFP-AD, :root [href^="https://go.xlrdr.com"], :root a[href^="https://s.cant3am.com/"], :root [data-testid^="taboola-"], :root [data-testid^="section-AdRowBillboard"], :root a[href^="https://track.1234sd123.com/"], :root zeus-ad, :root [data-testid="prism-ad-wrapper"], :root [href^="https://ad.admitad.com/"], :root [href^="https://mypillow.com/"] > img, :root [data-testid="ad_testID"], :root a[href^="https://trk.softonixs.xyz/"], :root [href^="https://www.mypatriotsupply.com/"] > img, :root [href^="https://antiagingbed.com/discount/"] > img, :root a[href*=".adsrv.eacdn.com/"], :root a[href^="https://go.cmtaffiliates.com/"], :root [href^="https://optimizedelite.com/"] > img, :root [data-testid="adBanner-wrapper"], :root [href^="https://mylead.global/stl/"] > img, :root [href^="https://mypatriotsupply.com/"] > img, :root a[href^="https://go.hpyjmp.com"], :root iframe[scrolling="no"][sandbox*="allow-popups allow-modals"][style^="width: 100%; height: 100%; border: none;"], :root [href^="https://mystore.com/"] > img, :root [href^="https://wct.link/click?"], :root div[data-adunit], :root app-large-ad, :root [href^="https://turtlebids.irauctions.com/"] img, :root a[href^="https://witnessjacket.com/"], :root [data-mobile-ad-id], :root [data-dynamic-ads], :root [class^="amp-ad-"], :root a[href^="http://handgripvegetationhols.com/"], :root a[href^="https://go.rmhfrtnd.com"], :root a[href^="https://go.bbrdbr.com"], :root a[href^="https://fc.lc/ref/"], :root [data-adshim], :root topadblock, :root a[href^="//s.zlinkd.com/"], :root #teaser1[style^="width:autopx;"], :root [href^="https://www.cloudways.com/en/?id"], :root [data-asg-ins], :root a[href^="https://gamingadlt.com/?offer="], :root a[href^="https://rixofa.com/"], :root a[href^="https://best-experience-cool.com/"], :root [data-desktop-ad-id], :root [data-adbridg-ad-class], :root #teaser3[style^="width:autopx;"], :root [data-adblockkey], :root [data-block-type="ad"], :root [data-ad-width], :root [onclick*="content.ad/"], :root AMP-AD, :root [data-ad-cls], :root [data-ez-name], :root a[href^="https://go.mnaspm.com/"], :root a[href^="https://service.bv-aff-trx.com/"], :root a[href^="https://6-partner.com/"], :root [class^="s2nPlayer"], :root [href^="https://affiliate.fastcomet.com/"] > img, :root [class^="adDisplay-module"], :root a[href^="https://adclick.g.doubleclick.net/"], :root [data-freestar-ad][id], :root AD-SLOT, :root a[href^="https://www.googleadservices.com/pagead/aclk?"] > img, :root [data-ad-module], :root a[href^="https://go.skinstrip.net"][href*="?campaignId="], :root #teaser2[style^="width:autopx;"], :root [data-revive-zoneid], :root a[href^="https://losingoldfry.com/"], :root div[id^="div-gpt-"], :root a[href^="https://gml-grp.com/"], :root .ob_dual_right > .ob_ads_header ~ .odb_div, :root a[href^="http://tc.tradetracker.net/"] > img, :root [data-testid="commercial-label-taboola"], :root [class^="div-gpt-ad"], :root a[href^="https://traffdaq.com/"], :root a[href^="https://cam4com.go2cloud.org/"], :root a[href^="http://li.blogtrottr.com/click?"], :root a[href^="https://www8.smartadserver.com/"], :root a[href^="https://pb-imc.com/"], :root a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"], :root a[href^="https://t.ajump1.com/"], :root a[href^="https://wittered-mainging.com/"], :root #teaser3[style="width: 100%;text-align: center;display: scroll;position:fixed;bottom: 0;margin: 0 auto;z-index: 103;"] { display: none !important; }</style></head>
+<body>
+<div id="particles-js"><canvas class="particles-js-canvas-el" height="925" style="width: 100%; height: 100%;" width="1875"></canvas></div>
+<h1>Ultimate 6'7 Games</h1>
+<div class="info-text">
+Hey! Welcome to the game website. You're allowed to spread it to others, and it is actually encouraged, because I kinda need more game websites xD. This website was made by <em>ANONYMOUS,</em> and if you know who actually made it, don't tell anyone. Anyway, there might (and will) be duplicates of games. I have ALOT games on here (game count under the form [fill out the form fr, just dont give me GN math, piks or duck alltutors]), so I am <em>not</em> manually fixing allat, just deal with it. Oh, and type "cloakts" to open about:blank, just incase you have a strict teacher and you have to quickly go to about:blank.
+</div>
+<div style="display: flex; justify-content: center; margin: 20px 0;">
+<iframe frameborder="0" height="600" marginheight="0" marginwidth="0" src="https://docs.google.com/forms/d/e/1FAIpQLSe141_yvcfh3UJFkAovm8ZJSLz5qYBIhZf_FvgiSXPoWiey5Q/viewform?embedded=true" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5);" width="500">
+    Loading…
+  </iframe>
+</div><div style="margin: 20px;"><input id="gameSearch" placeholder="Search games..." style="padding:10px;width:300px;border-radius:5px;border:none;" type="text"/></div>
+<div id="gameCount" style="margin: 20px 0; font-size: 20px; color: #fff;">Loading games...</div>
+<script>
+  window.addEventListener('DOMContentLoaded', function() {
+    const allButtons = document.querySelectorAll('.game-button');
+    const gameButtons = Array.from(allButtons).filter(btn => 
+      !["New Game(s)", "Delete Game", "Edit Game", "Download Website"].includes(btn.textContent)
+    );
+    document.getElementById('gameCount').textContent = `Total Games: ${gameButtons.length}`;
+  });
+</script>
+<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+<script>
+    particlesJS("particles-js", {
+      "particles": {
+        "number": {"value": 80, "density": {"enable": true, "value_area": 800}},
+        "color": {"value": "#ffffff"},
+        "shape": {"type": "circle"},
+        "opacity": {"value": 0.5, "random": false},
+        "size": {"value": 3, "random": true},
+        "line_linked": {"enable": true, "distance": 150, "color": "#ffffff", "opacity": 0.4, "width": 1},
+        "move": {"enable": true, "speed": 6, "direction": "none", "random": false, "straight": false, "out_mode": "out"}
+      },
+      "interactivity": {
+        "detect_on": "canvas",
+        "events": {
+          "onhover": {"enable": true, "mode": "repulse"},
+          "onclick": {"enable": true, "mode": "push"},
+          "resize": true
+        }
+      },
+      "retina_detect": true
+    });
+
+    function openGame(url) {
+      var win = window.open();
+      win.document.write('<iframe src="' + url + '" frameborder="0" style="width:100%;height:100%;border:none;"></iframe>');
+    }
+  </script>
+<script>
+  let secretCode = "siks67";
+  let inputBuffer = "";
+
+  document.addEventListener("keydown", function(e) {
+    inputBuffer += e.key.toLowerCase();
+    if (inputBuffer.length > secretCode.length) {
+      inputBuffer = inputBuffer.slice(-secretCode.length);
+    }
+    if (inputBuffer === secretCode) {
+      showAdminButtons();
+    }
+  });
+
+  function showAdminButtons() {
+    if (document.getElementById("adminPanel")) return; // avoid duplicates
+
+    let panel = document.createElement("div");
+    panel.id = "adminPanel";
+    panel.style.margin = "20px";
+
+    let newBtn = document.createElement("button");
+    newBtn.textContent = "New Game(s)";
+    newBtn.className = "game-button";
+    newBtn.onclick = function() {
+      let textInput = prompt(
+        "Paste games in format:\nGame Name<TAB or spaces>https://link.com\nOne per line."
+      );
+      if (textInput) {
+        let lines = textInput.split("\n");
+        lines.forEach(line => {
+          let parts = line.trim().split(/\s+/); // split by whitespace
+          if (parts.length >= 2) {
+            let name = parts.slice(0, parts.length - 1).join(" ");
+            let url = parts[parts.length - 1];
+            let btn = document.createElement("button");
+            btn.className = "game-button";
+            btn.textContent = name;
+            btn.setAttribute("onclick", "openGame('" + url + "')");
+            document.body.insertBefore(btn, panel);
+          }
+        });
+      }
+    };
+    let delBtn = document.createElement("button");
+    delBtn.textContent = "Delete Game";
+    delBtn.className = "game-button";
+    delBtn.onclick = function() {
+      let gameName = prompt("Enter the exact name of the game button to delete (or type 'all' to remove everything):");
+      if (!gameName) return;
+
+      if (gameName.toLowerCase() === "all") {
+        let confirmAll = prompt("Are you sure? Type all again to confirm.");
+        if (confirmAll && confirmAll.toLowerCase() === "all") {
+          document.querySelectorAll(".game-button").forEach(btn => {
+            if (
+              !["New Game(s)", "Delete Game", "Edit Game", "Download Website"].includes(btn.textContent)
+            ) {
+              btn.remove();
+            }
+          });
+        }
+        return;
+      }
+
+      let buttons = document.querySelectorAll(".game-button");
+      buttons.forEach(btn => {
+        if (
+          btn.textContent.trim() === gameName &&
+          !["New Game(s)", "Delete Game", "Edit Game", "Download Website"].includes(btn.textContent)
+        ) {
+          btn.remove();
+        }
+      });
+    };
+
+    let editBtn = document.createElement("button");
+    editBtn.textContent = "Edit Game";
+    editBtn.className = "game-button";
+    editBtn.onclick = function() {
+      let gameName = prompt("Enter the exact name of the game button to edit:");
+      if (gameName) {
+        let btn = Array.from(document.querySelectorAll(".game-button")).find(
+          b =>
+            b.textContent.trim() === gameName &&
+            !["New Game(s)", "Delete Game", "Edit Game", "Download Website"].includes(b.textContent)
+        );
+        if (btn) {
+          let newName = prompt("Enter new name:", btn.textContent);
+          let currentLink = btn
+            .getAttribute("onclick")
+            .match(/'(.*?)'/)[1];
+          let newLink = prompt("Enter new link (URL):", currentLink);
+          if (newName) btn.textContent = newName;
+          if (newLink) btn.setAttribute("onclick", "openGame('" + newLink + "')");
+        }
+      }
+    };
+
+    
+    
+    let dlBtn = document.createElement("button");
+    dlBtn.textContent = "Download Website";
+    dlBtn.className = "game-button";
+    dlBtn.onclick = function() {
+      var adminPanel = document.getElementById('adminPanel');
+      var storedPanel = null;
+      var panelParent = null;
+      var panelNext = null;
+      if (adminPanel) {
+        panelParent = adminPanel.parentNode;
+        panelNext = adminPanel.nextSibling;
+        storedPanel = adminPanel;
+        panelParent.removeChild(adminPanel);
+      }
+
+      var adminNames = ["New Game(s)", "Delete Game", "Edit Game", "Download Website"];
+      var removedBtns = [];
+      document.querySelectorAll('.game-button').forEach(function(btn) {
+        if (adminNames.indexOf(btn.textContent.trim()) !== -1) {
+          removedBtns.push({btn: btn, parent: btn.parentNode, next: btn.nextSibling});
+          btn.parentNode.removeChild(btn);
+        }
+      });
+
+      var source = '<!DOCTYPE html>\n' + document.documentElement.outerHTML;
+      var blob = new Blob([source], { type: 'text/html' });
+      var a = document.createElement('a');
+      a.href = URL.createObjectURL(blob);
+      a.download = 'ultimate67games_updated.html';
+      document.body.appendChild(a);
+      a.click();
+
+      setTimeout(function() {
+        try { URL.revokeObjectURL(a.href); } catch(e){}
+        a.remove();
+        if (storedPanel && panelParent) {
+          if (panelNext) panelParent.insertBefore(storedPanel, panelNext);
+          else panelParent.appendChild(storedPanel);
+        }
+        for (var i = 0; i < removedBtns.length; i++) {
+          var r = removedBtns[i];
+          if (r.next) r.parent.insertBefore(r.btn, r.next);
+          else r.parent.appendChild(r.btn);
+        }
+      }, 120);
+    };
+
+
+
+      panel.appendChild(newBtn);
+    panel.appendChild(delBtn);
+    panel.appendChild(editBtn);
+    panel.appendChild(dlBtn);
+
+    document.body.appendChild(panel);
+}
+
+</script>
+<button class="game-button" onclick="openGame('https://falling-reliable-wolf-840.vscodeedu.app/')">Particles.js</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/liquid.html')">Liquid thingy</button><button class="game-button" onclick="openGame('https://bouncyballs.org/')">Bouncy Balls</button><button class="game-button" onclick="openGame('https://www.fotmob.com/')">FotMob</button><button class="game-button" onclick="openGame('https://www.worldguessr.com/')">WorldGuessr</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/1v1.html')">1v1.lol</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/poly.html')">Polytrack</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/1v1soccer.html')">1v1 soccer</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/basketball.html')">Basket Random</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/blocks.html')">Block Blast</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/tanks.html')">Awesome Tanks</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/tanks2.html')">Awesome Tanks 2</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/infcraft.html')">Infinite Craft</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/snowball.html')">Snowball.io</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/slither.html')">Slither.io</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/snipers.html')">Rooftop Snipers</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/boxing.html')">Boxing Random</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/basketlegends.html')">Basket Legends</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/darkroom.html')">A Firelit Room</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/pool.html')">Pool</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/hole.html')">Hole.io HD</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/kong.html')">King Kong</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/nogame.html')">There Is No Game</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/qwop.html')">Qwop</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/cookie.html')">Cookie Clicker</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/coreball.html')">CoreBall</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/doodle.html')">Doodle</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/drift.html')">Drift Boss</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/smashbros.html')">Smash Brothers</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/pokeruby.html')">Pokemon Ruby</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/pokeemerald.html')">Pokemon Emerald</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/pokeplatinum.html')">Pokemon Platinum</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/bitlife.html')">BitLife</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/granny2.html')">Granny 2</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/helix.html')">Helix Jump</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/ngon.html')">Ngon</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/vex6.html')">Vex 6</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/vex7.html')">Vex 7</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/vex8.html')">Vex 8</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/fireboy.html')">Fireboy and Watergirl</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/fnaf.html')">FNAF 1</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/friday.html')">Friday Night Funkin'</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/happywheels.html')">Happy Wheels</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/index.html')">The Binding of Isaac</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/learnfly.html')">Learn To Fly 1</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/learnfly3.html')">Learn To Fly 3</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/mariods.html')">Mario Kart DS</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/moto2.html')">Moto 2</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/moto3.html')">Moto 3</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/ovo2.html')">Ovo 2</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/run.html')">Run 1</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/run3.html')">Run 3</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/shoot.html')">Shoot</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/slope.html')">Slope</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/slopemult.html')">Slope Multiplayer</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/snowalt.html')">Snow Rider</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/soccer.html')">Soccer Random</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/solitaire.html')">Solitare</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/suika.html')">Suika</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/suikapico.html')">Suika 8-Bit</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/supermario.html')">Super Mariokart</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/supermario64.html')">Super Mario 64 DS</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/temple.html')">Temple Run</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/tetris.html')">Tetris</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/sandtris.html')">Sandtris</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/tinyfishing.html')">Tiny Fishing</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/zelda.html')">Zelda</button><button class="game-button" onclick="openGame('https://vague-fern-robot-549.vscodeedu.app/zombie.html')">Plants VS. Zombies</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/steal_a_brainrot/index.html')">Steal A Brainrot</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/minecraft/index.html')">Minecraft</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/grow_a_garden/index.html')">Grow A Garden</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/obby_but_youre_on_a_bike/index.html')">Obby But You're On A Bike</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/deadly_descent/index.html')">Deadly Descent</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/99_nights_in_the_forest/index.html')">99 nights in the forest</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/polytrack/index.html')">Polytrack</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/cod_zombies_portable/index.html')">COD Zombies</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/retro_bowl_college/index.html')">Retro Bowl</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/snow_rider_3d/index.html')">Snow Rider</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/crazycattle3d/index.html')">Crazy Cattle</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/baldis_basics/index.html')">Baldi's Basic</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/spider_dude_parkour/index.html')">Spider Dude</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/rainbow_friends_return/index.html')">Rainbow Friend|</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/gun_spin/index.html')">Gunspin</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/buckshot_roulette/index.html')">Buckshot Roulette</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/?file=thebindingofisaac.swf')">The Binding Of Isaac</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/burrito_bison_launcha_libre/index.html')">Burrito Bison 2</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/drive_mad/index.html')">Drive Mad</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/retro_bowl/index.html')">Retro Bowl</button><button class="game-button" onclick="openGame('https://maddox.page/gba_emu/launcher.html#pokemonemerald')">Pokemon Emerald</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/happy_wheels/index.html')">Happy Wheels</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/arrow_master/index.html')">Arrow Master</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/ddlc/index.html')">Doki Doki Literature Club</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/build_a_queen/index.html')">Build A Queen</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/fighter_aircraft_pilot/index.html')">Fighter Aircraft Pilot</button><button class="game-button" onclick="openGame('https://maddox.page/gba_emu/launcher.html#pokemonred')">Pokemon Red</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/subway_surfers_barcelona/index.html')">Subway Surfers</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/?file=escapetheprison.swf')">Escape The Prison</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/uno/index.html')">Uno</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/pvz/index.html')">Plants VS. Zombies</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/rodeo_stampede/index.html')">Rodeo Stampede</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/squid_game_2_mini_games/index.html')">Squid Games</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/funny_shooter_2/index.html')">Funny Shooter</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/solar_smash/index.html')">Solar Smash</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/apple_knight_mini_dungeons/index.html')">Mini Dungeons</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/battle_simulator/index.html')">Battle Simulator</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/?file=basketball_legends.swf')">Basketball Legends</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/masked_special_forces/index.html')">Special Forces</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/?file=TheImpossibleQuiz.swf')">The Impossible Quiz</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/soviet_sniper/index.html')">Soviet Sniper</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/crossy_road/index.html')">Crossy Road</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/arcane_archer/index.html')">Arcane Archer</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/zombie_derby_pixel_survival/index.html')">Zombie Derby: Pixel Survival</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/?file=PapasBurgeria.swf')">Papa's Burgeria</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/incredibox/index.html')">Incredibox</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/street_fighter/index.html')">Street Fighter</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/archer_master_3d_castle_defender/index.html')">Archer Master</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/rocket_soccer_derby/index.html')">Android Rocket League</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/ovo_dimensions/index.html')">OvO</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/tunnel_rush_2/index.html')">Tunnel Rush 2</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/pvz_hybrid_story_mod/index.html')">Plants VS. Zombies Modded</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/a_small_world_cup/index.html')">A Small World Cup</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/duck_life_4/index.html')">Duck Life 4</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/time_shooter_swat/index.html')">Time Shooter 3</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/heck_sucker/index.html')">He*l Sucker</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/ducklingsio/index.html')">Ducklings</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/mini_golf/index.html')">Mini Golf</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/io_pinball/gabe.html')">Pinball</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/football_legends/index.html')">Football Legends</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/animal_crossing/index.html')">Animal Crossing</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/jetpack_joyride/index.html')">Jetpack Joyride</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/where_is_the_water/index.html')">Where Is The Water?</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/temple_run_2/index.html')">Temple Run 2</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/crazy_karts/index.html')">Crazy Karts</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/draw_the_bridge/index.html')">Draw The Bridge</button><button class="game-button" onclick="openGame('https://maddox.page/basic-ruffle-player/html/truck_loader_4/index.html')">Truck Loader 4</button><button class="game-button" onclick="openGame('https://replit.com/@leoht1130/my-sduhsd-net#game-website/FILE-games/1v1.LoL.html')">UNDERWHEELS</button><script>
+document.getElementById("gameSearch").addEventListener("input", function() {
+  let filter = this.value.toLowerCase();
+  let buttons = document.querySelectorAll(".game-button");
+  buttons.forEach(btn => {
+    if (!["New Game(s)", "Delete Game", "Edit Game", "Download Website"].includes(btn.textContent)) {
+      if (btn.textContent.toLowerCase().includes(filter)) {
+        btn.style.display = "inline-block";
+      } else {
+        btn.style.display = "none";
+      }
+    }
+  });
+});
+</script>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/10 Minutes Till Dawn.html')">10 Minutes Till Dawn</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/12 Mini Battles.html')">12 Mini Battles</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/1v1.LoL.html')">1v1.LoL</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/2048 Merge Run.html')">2048 Merge Run</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/2048.html')">2048</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/3D Bowling.html')">3D Bowling</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/8 Ball Classic.html')">8 Ball Classic</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/8 Ball Pool.html')">8 Ball Pool</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/99 Balls.html')">99 Balls</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/A Bite at Freddy's.html')">A Bite at Freddy's</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/A Dance of Fire and Ice.html')">A Dance of Fire and Ice</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/A Small World Cup.html')">A Small World Cup</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Abandoned.html')">Abandoned</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Achievement Unlocked 2.html')">Achievement Unlocked 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Achievement Unlocked 3.html')">Achievement Unlocked 3</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Achievement Unlocked.html')">Achievement Unlocked</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Adventure Capatalist.html')">Adventure Capatalist</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Adventure Drivers.html')">Adventure Drivers</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Ages of Conflict.html')">Ages of Conflict</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Alien Hominid.html')">Alien Hominid</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Amanda the Adventurer.html')">Amanda the Adventurer</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Amaze.html')">Amaze</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Andy's Apple Farm.html')">Andy's Apple Farm</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Angry Birds Chrome.html')">Angry Birds Chrome</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Angry Birds Showdown.html')">Angry Birds Showdown</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Angry Birds.html')">Angry Birds</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Aquapark.io.html')">Aquapark.io</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Archery World Tour.html')">Archery World Tour</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Attack Hole.html')">Attack Hole</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Awesome Tanks 2.html')">Awesome Tanks 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Awesome Tanks.html')">Awesome Tanks</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Backrooms.html')">Backrooms</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Bacon May Die.html')">Bacon May Die</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Bad Ice Cream 2.html')">Bad Ice Cream 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Bad Ice Cream 3.html')">Bad Ice Cream 3</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Bad Ice Cream.html')">Bad Ice Cream</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Bad Monday Simulator.html')">Bad Monday Simulator</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Bad Parenting 1.html')">Bad Parenting 1</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Bad Time Simulator.html')">Bad Time Simulator</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Baldi's Basics Classic Remastered.html')">Baldi's Basics Classic Remastered</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Baldi's Basics Plus.html')">Baldi's Basics Plus</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Baldi's Basics.html')">Baldi's Basics</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Ball Blast.html')">Ball Blast</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Bank Robbery 2.html')">Bank Robbery 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Baseball Bros.html')">Baseball Bros</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Basket Battle.html')">Basket Battle</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Basket Bros.html')">Basket Bros</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Basket Random.html')">Basket Random</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Basketball Frvr.html')">Basketball Frvr</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Basketball Stars.html')">Basketball Stars</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Bazooka Boy.html')">Bazooka Boy</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Bendy and the Ink Machine.html')">Bendy and the Ink Machine</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/BERGENTRUCK 201x.html')">BERGENTRUCK 201x</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Big ICE Tower Tiny Square.html')">Big ICE Tower Tiny Square</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Big NEON Tower Tiny Square.html')">Big NEON Tower Tiny Square</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Big Tower Tiny Square 2.html')">Big Tower Tiny Square 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Big Tower Tiny Square.html')">Big Tower Tiny Square</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Binding of Issac_ Wrath of the Lamb.html')">Binding of Issac_ Wrath of the Lamb</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/BitLife.html')">BitLife</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/BitPlanes.html')">BitPlanes</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/BlackJack.html')">BlackJack</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Blade Ball.html')">Blade Ball</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Block Blast.html')">Block Blast</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/BlockPost.html')">BlockPost</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Blocky Snakes.html')">Blocky Snakes</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/BLOODMONEY!.html')">BLOODMONEY!</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Bloons TD 2.html')">Bloons TD 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Bloons TD 3.html')">Bloons TD 3</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Bloons TD 4.html')">Bloons TD 4</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Bloons TD 5.html')">Bloons TD 5</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Bloons TD.html')">Bloons TD</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Bloxorz.html')">Bloxorz</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Blumgi Rocket.html')">Blumgi Rocket</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Bob The Robber 2.html')">Bob The Robber 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Bottle Jump 3D.html')">Bottle Jump 3D</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Bouncemasters.html')">Bouncemasters</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Bowmasters.html')">Bowmasters</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Boxing Random.html')">Boxing Random</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Brawl Guys.io.html')">Brawl Guys.io</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Bridge Race.html')">Bridge Race</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Buckshot Roulette.html')">Buckshot Roulette</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Build a Big Army.html')">Build a Big Army</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Build a Plane.html')">Build a Plane</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Build a Queen.html')">Build a Queen</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Burrito Bison.html')">Burrito Bison</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Bust a Loop.html')">Bust a Loop</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Camouflage and Sniper.html')">Camouflage and Sniper</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Candy Crush.html')">Candy Crush</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Cannon Balls 3D.html')">Cannon Balls 3D</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Cannon Basketball 2.html')">Cannon Basketball 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Cannon Basketball.html')">Cannon Basketball</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Car Survival 3D.html')">Car Survival 3D</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Carrom Clash.html')">Carrom Clash</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Cat Connection.html')">Cat Connection</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Cat Gunner_ Super Zombie Shoot.html')">Cat Gunner_ Super Zombie Shoot</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Celeste PICO.html')">Celeste PICO</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Chat Bot (A._.I).html')">Chat Bot (A._.I)</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Cheese Chompers 3D.html')">Cheese Chompers 3D</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Chess Classic.html')">Chess Classic</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Chiikawa Puzzle.html')">Chiikawa Puzzle</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Choppy Orc.html')">Choppy Orc</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/CircloO 2.html')">CircloO 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/CircloO.html')">CircloO</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/City Defense.html')">City Defense</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/City Smash.html')">City Smash</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Clash Of Vikings.html')">Clash Of Vikings</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Class of '09.html')">Class of '09</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Clothing Shop 3D.html')">Clothing Shop 3D</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Cluster Rush.html')">Cluster Rush</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Code Editor.html')">Code Editor</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Color Match.html')">Color Match</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Color Water Sort 3D.html')">Color Water Sort 3D</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Cookie Clicker.html')">Cookie Clicker</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Cool Cars Run 3D.html')">Cool Cars Run 3D</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Coreball.html')">Coreball</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Crazy Cars.html')">Crazy Cars</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Crazy Cattle 3D.html')">Crazy Cattle 3D</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Crazy Chicken 3D.html')">Crazy Chicken 3D</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Crazy Kitty 3D.html')">Crazy Kitty 3D</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Crossy Road.html')">Crossy Road</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Crush Cars 3D.html')">Crush Cars 3D</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Cubefield.html')">Cubefield</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Cuphead.html')">Cuphead</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Cut the Rope (1).html')">Cut the Rope (1)</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Cut the Rope.html')">Cut the Rope</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Cut the Rope_ Holiday Gift.html')">Cut the Rope_ Holiday Gift</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Cut the Rope_ Time Travel.html')">Cut the Rope_ Time Travel</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Dadish 2.html')">Dadish 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Dadish 3.html')">Dadish 3</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Dadish 3D.html')">Dadish 3D</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Dadish.html')">Dadish</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Daily Dadish.html')">Daily Dadish</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Dan The Man.html')">Dan The Man</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/DEAD PLATE.html')">DEAD PLATE</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Death Run 3D.html')">Death Run 3D</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Destiny Run 3D.html')">Destiny Run 3D</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Destroy The Car 3D.html')">Destroy The Car 3D</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Diamond Seeker.html')">Diamond Seeker</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Dig Deep.html')">Dig Deep</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Do NOT Take This Cat Home.html')">Do NOT Take This Cat Home</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Doge Miner.html')">Doge Miner</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/DON'T YOU LECTURE ME.html')">DON'T YOU LECTURE ME</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Doodle Jump.html')">Doodle Jump</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/DOOM.html')">DOOM</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Dragon vs Bricks.html')">Dragon vs Bricks</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Draw Climber.html')">Draw Climber</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Draw Joust.html')">Draw Joust</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Draw the Hill.html')">Draw the Hill</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Draw the Line.html')">Draw the Line</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Dreadhead Parkour.html')">Dreadhead Parkour</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Drift Boss.html')">Drift Boss</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Drift Hunters.html')">Drift Hunters</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Drive Mad.html')">Drive Mad</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Driven Wild.html')">Driven Wild</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Duck Life 2.html')">Duck Life 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Duck Life 3.html')">Duck Life 3</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Duck Life 4.html')">Duck Life 4</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Duck Life 5.html')">Duck Life 5</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Duck Life.html')">Duck Life</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Elastic Man.html')">Elastic Man</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Emulator.JS.html')">Emulator.JS</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Endoparasitic.html')">Endoparasitic</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Escape Road 2.html')">Escape Road 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Escape Road.html')">Escape Road</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Evil Glitch.html')">Evil Glitch</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Evolving Bombs 3D.html')">Evolving Bombs 3D</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/EvoWars.io.html')">EvoWars.io</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Fancy Pants Adventure 2.html')">Fancy Pants Adventure 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Fancy Pants Adventure 3.html')">Fancy Pants Adventure 3</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Fancy Pants Adventure 4 Part 1.html')">Fancy Pants Adventure 4 Part 1</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Fancy Pants Adventure 4 Part 2.html')">Fancy Pants Adventure 4 Part 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Fancy Pants Adventure.html')">Fancy Pants Adventure</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Fashion Battle.html')">Fashion Battle</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Fears to Fathom_ Home Alone.html')">Fears to Fathom_ Home Alone</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Final Earth 2.html')">Final Earth 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Find the Alien.html')">Find the Alien</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Fire and Frost Master.html')">Fire and Frost Master</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Fireboy and Watergirl 2.html')">Fireboy and Watergirl 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Fireboy and Watergirl 3.html')">Fireboy and Watergirl 3</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Fitness Empire.html')">Fitness Empire</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Five Nights at Candy's 2.html')">Five Nights at Candy's 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Five Nights at Candy's.html')">Five Nights at Candy's</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Five Nights at Freddy's 2.html')">Five Nights at Freddy's 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Five Nights at Freddy's 3.html')">Five Nights at Freddy's 3</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Five Nights at Freddy's 4.html')">Five Nights at Freddy's 4</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Five Nights at Freddy's 4_ Halloween.html')">Five Nights at Freddy's 4_ Halloween</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Five Nights at Freddy's.html')">Five Nights at Freddy's</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Five Nights at Freddy's_ Pizza Simulator.html')">Five Nights at Freddy's_ Pizza Simulator</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Five Nights at Freddy's_ Sister Location.html')">Five Nights at Freddy's_ Sister Location</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Five Nights at Freddy's_ Ultimate Custom Night.html')">Five Nights at Freddy's_ Ultimate Custom Night</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Five Nights at Freddy's_ World.html')">Five Nights at Freddy's_ World</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Five Nights at Winston's.html')">Five Nights at Winston's</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Flappy Bird.html')">Flappy Bird</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Flappy Dunk.html')">Flappy Dunk</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Flick Goal.html')">Flick Goal</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Flip Master.html')">Flip Master</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Football Bros.html')">Football Bros</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Fork n Sausage.html')">Fork n Sausage</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Fortzone Battle Royale.html')">Fortzone Battle Royale</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Friday Night Funkin'_ 17 Bucks_ Floor 1.html')">Friday Night Funkin'_ 17 Bucks_ Floor 1</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Friday Night Funkin'_ B-Sides.html')">Friday Night Funkin'_ B-Sides</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Friday Night Funkin'_ Creepypasta JP.html')">Friday Night Funkin'_ Creepypasta JP</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Friday Night Funkin'_ Darkness Takeover.html')">Friday Night Funkin'_ Darkness Takeover</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Friday Night Funkin'_ FIRE IN THE HOLE_ Lobotomy Dash Funkin'.html')">Friday Night Funkin'_ FIRE IN THE HOLE_ Lobotomy Dash Funkin'</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Friday Night Funkin'_ Hit Single Real.html')">Friday Night Funkin'_ Hit Single Real</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Friday Night Funkin'_ Indie Cross.html')">Friday Night Funkin'_ Indie Cross</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Friday Night Funkin'_ Jeffy's Endless Aethos.html')">Friday Night Funkin'_ Jeffy's Endless Aethos</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Friday Night Funkin'_ Mistful Crimson Morning Reboot.html')">Friday Night Funkin'_ Mistful Crimson Morning Reboot</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Friday Night Funkin'_ Neo.html')">Friday Night Funkin'_ Neo</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Friday Night Funkin'_ Pibby_ Apocalypse.html')">Friday Night Funkin'_ Pibby_ Apocalypse</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Friday Night Funkin'_ Sarvente's Mid-Fight Masses.html')">Friday Night Funkin'_ Sarvente's Mid-Fight Masses</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Friday Night Funkin'_ Sonic Legacy.html')">Friday Night Funkin'_ Sonic Legacy</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Friday Night Funkin'_ TWIDDLEFINGER.html')">Friday Night Funkin'_ TWIDDLEFINGER</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Friday Night Funkin'_ V.S. Whitty.html')">Friday Night Funkin'_ V.S. Whitty</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Friday Night Funkin'_ vs. BOPCITY.html')">Friday Night Funkin'_ vs. BOPCITY</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Friday Night Funkin'_ vs. Garcello.html')">Friday Night Funkin'_ vs. Garcello</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Friday Night Funkin'_ Vs. Hatsune Miku.html')">Friday Night Funkin'_ Vs. Hatsune Miku</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Friday Night Funkin'_ Vs. Hex.html')">Friday Night Funkin'_ Vs. Hex</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Friday Night Funkin'_ vs. QT.html')">Friday Night Funkin'_ vs. QT</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Friday Night Funkin'_ vs. Tricky.html')">Friday Night Funkin'_ vs. Tricky</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Friday Night Funkin.html')">Friday Night Funkin</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Friday Night Funkin’ Soft.html')">Friday Night Funkin’ Soft</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Fruit Ninja.html')">Fruit Ninja</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Generic Fighter Maybe.html')">Generic Fighter Maybe</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Geometry Dash Lite.html')">Geometry Dash Lite</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Getaway Shootout.html')">Getaway Shootout</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Giant Wanted.html')">Giant Wanted</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Gladihoppers.html')">Gladihoppers</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Gobble.html')">Gobble</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/God's Flesh.html')">God's Flesh</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Going Balls.html')">Going Balls</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Google Baseball.html')">Google Baseball</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Google Feud.html')">Google Feud</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Granny 2.html')">Granny 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Granny 3.html')">Granny 3</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Granny.html')">Granny</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/groon groon, babey!.html')">groon groon, babey!</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Guess Their Answer.html')">Guess Their Answer</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Gun Clone.html')">Gun Clone</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Gun Runner.html')">Gun Runner</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Gunspin.html')">Gunspin</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Half Life.html')">Half Life</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Happy Sheepies.html')">Happy Sheepies</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Harvest.io.html')">Harvest.io</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Hide N Seek.html')">Hide N Seek</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/High Heels.html')">High Heels</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Highway Racer 2.html')">Highway Racer 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Hill Climb Racing Lite.html')">Hill Climb Racing Lite</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Hollow Knight.html')">Hollow Knight</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Hotline Miami.html')">Hotline Miami</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/House of Hazards.html')">House of Hazards</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Human Expenditure Program.html')">Human Expenditure Program</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/I woke up next to you again..html')">I woke up next to you again.</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Ice Dodo.html')">Ice Dodo</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Idle Breakout.html')">Idle Breakout</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Idle Dice.html')">Idle Dice</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Idle Lumber Inc.html')">Idle Lumber Inc</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Idle Mining Empire.html')">Idle Mining Empire</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Infinimoes.html')">Infinimoes</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Jelly Drift.html')">Jelly Drift</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Jelly Mario.html')">Jelly Mario</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Jetpack Joyride.html')">Jetpack Joyride</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Johnny Trigger.html')">Johnny Trigger</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Journey Downhill.html')">Journey Downhill</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/JustFall.lol.html')">JustFall.lol</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Kaji Run.html')">Kaji Run</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Karlson.html')">Karlson</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Kindergarten 2.html')">Kindergarten 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Kindergarten 3.html')">Kindergarten 3</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Kindergarten.html')">Kindergarten</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Kitchen Bazar (1).html')">Kitchen Bazar (1)</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Kitchen Bazar.html')">Kitchen Bazar</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Kitty Toy.html')">Kitty Toy</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Learn to Fly 2.html')">Learn to Fly 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Learn to Fly 3.html')">Learn to Fly 3</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Learn to Fly Idle.html')">Learn to Fly Idle</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Learn to Fly.html')">Learn to Fly</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Line Rider.html')">Line Rider</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Little Runmo.html')">Little Runmo</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Love Letters.html')">Love Letters</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Madalin Stunt Cars 2.html')">Madalin Stunt Cars 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Madalin Stunt Cars 3.html')">Madalin Stunt Cars 3</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Madness Combat_ Project Nexus (classic).html')">Madness Combat_ Project Nexus (classic)</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Magic Tiles 3.html')">Magic Tiles 3</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Make a SuperBoat.html')">Make a SuperBoat</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Makeover Run.html')">Makeover Run</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Maze Speedrun.html')">Maze Speedrun</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Mega Car Jumps.html')">Mega Car Jumps</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Melon Playground.html')">Melon Playground</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Merge Harvest.html')">Merge Harvest</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Minecraft 1.12.2.html')">Minecraft 1.12.2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Minecraft 1.21.4.html')">Minecraft 1.21.4</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Minecraft 1.5.2.html')">Minecraft 1.5.2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Minecraft 1.8.8 (1).html')">Minecraft 1.8.8 (1)</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Minecraft 1.8.8.html')">Minecraft 1.8.8</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Minecraft Alpha 1.2.6.html')">Minecraft Alpha 1.2.6</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Minecraft Beta 1.7.3.html')">Minecraft Beta 1.7.3</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Minecraft Indev.html')">Minecraft Indev</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Minesweeper Mania.html')">Minesweeper Mania</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Mob Control HTML5.html')">Mob Control HTML5</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Money Rush.html')">Money Rush</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Monkey Mart.html')">Monkey Mart</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Monster Box 3D.html')">Monster Box 3D</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Monster Tracks.html')">Monster Tracks</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Moto X3M 2.html')">Moto X3M 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Moto X3M 3.html')">Moto X3M 3</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Moto X3M Pool Party.html')">Moto X3M Pool Party</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Moto X3M Spooky.html')">Moto X3M Spooky</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Moto X3M Winter.html')">Moto X3M Winter</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Moto X3M.html')">Moto X3M</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/myTeardrop.html')">myTeardrop</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/n-gon.html')">n-gon</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Nazi Zombies_ Portable.html')">Nazi Zombies_ Portable</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Nijika's Ahoge.html')">Nijika's Ahoge</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Ninja vs EvilCorp.html')">Ninja vs EvilCorp</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Nubby's Number Factory.html')">Nubby's Number Factory</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Office Fight.html')">Office Fight</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Offroad Mountain Bike.html')">Offroad Mountain Bike</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Om Nom Run.html')">Om Nom Run</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/OMORI.html')">OMORI</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Oshi Oshi Punch!.html')">Oshi Oshi Punch!</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/osu!.html')">osu!</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/OvO 2.html')">OvO 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/OvO 3 Dimensions.html')">OvO 3 Dimensions</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/OvO.html')">OvO</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Pac-Man Superfast.html')">Pac-Man Superfast</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/PacMan (Horror).html')">PacMan (Horror)</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Papa's Bakeria.html')">Papa's Bakeria</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Papa's Burgeria.html')">Papa's Burgeria</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Papa's Cheeseria.html')">Papa's Cheeseria</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Papa's Cupcakeria.html')">Papa's Cupcakeria</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Papa's Donuteria.html')">Papa's Donuteria</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Papa's Freezeria.html')">Papa's Freezeria</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Papa's Hot Doggeria.html')">Papa's Hot Doggeria</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Papa's Pancakeria.html')">Papa's Pancakeria</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Papa's Pastaria.html')">Papa's Pastaria</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Papa's Pizeria.html')">Papa's Pizeria</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Papa's Scooperia.html')">Papa's Scooperia</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Papa's Sushiria.html')">Papa's Sushiria</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Papa's Taco Mia.html')">Papa's Taco Mia</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Papa's Wingeria.html')">Papa's Wingeria</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Paper.io 2.html')">Paper.io 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Papers, Please.html')">Papers, Please</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Papery Planes.html')">Papery Planes</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Parappa The Rapper.html')">Parappa The Rapper</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Parking Fury 3D.html')">Parking Fury 3D</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Parking Rush.html')">Parking Rush</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/People Playground.html')">People Playground</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Pixel Gun Survival.html')">Pixel Gun Survival</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Pizza Tower.html')">Pizza Tower</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Plants vs Zombies.html')">Plants vs Zombies</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Play!.js.html')">Play!.js</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Plinko.html')">Plinko</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Pokemon Emerald.html')">Pokemon Emerald</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Pokemon Red.html')">Pokemon Red</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Pokey Ball.html')">Pokey Ball</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Poly Track.html')">Poly Track</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/PortaBoy+.html')">PortaBoy+</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Pou.html')">Pou</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Protektor.html')">Protektor</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Quake III Arena.html')">Quake III Arena</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/R.E.P.O.html')">R.E.P.O</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Race Master 3D.html')">Race Master 3D</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Raft Wars 2.html')">Raft Wars 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Raft Wars.html')">Raft Wars</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Raft.html')">Raft</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Ragdoll Archers.html')">Ragdoll Archers</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Ragdoll Hit.html')">Ragdoll Hit</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Rainbow Obby (1).html')">Rainbow Obby (1)</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Rainbow Obby.html')">Rainbow Obby</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Recoil.html')">Recoil</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Red Ball 2.html')">Red Ball 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Red Ball 3.html')">Red Ball 3</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Red Ball 4 Vol. 2.html')">Red Ball 4 Vol. 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Red Ball 4 Vol. 3.html')">Red Ball 4 Vol. 3</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Red Ball 4.html')">Red Ball 4</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Red Ball.html')">Red Ball</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Retro Bowl College.html')">Retro Bowl College</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Retro Bowl.html')">Retro Bowl</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Rich Run 3D.html')">Rich Run 3D</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Riddle School 2.html')">Riddle School 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Riddle School 3.html')">Riddle School 3</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Riddle School 4.html')">Riddle School 4</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Riddle School 5.html')">Riddle School 5</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Riddle School.html')">Riddle School</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Riddle Transfer 2.html')">Riddle Transfer 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Riddle Transfer.html')">Riddle Transfer</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/RigBMX 2.html')">RigBMX 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/RigBMX.html')">RigBMX</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Road of Fury.html')">Road of Fury</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Robot Invasion.html')">Robot Invasion</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Rolly Vortex.html')">Rolly Vortex</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Rooftop Snipers 2.html')">Rooftop Snipers 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Rooftop Snipers.html')">Rooftop Snipers</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Room Sort.html')">Room Sort</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Ruffle.html')">Ruffle</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Run 1.html')">Run 1</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Run 2.html')">Run 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Run 3.html')">Run 3</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Sandboxels.html')">Sandboxels</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/sandspiel.html')">sandspiel</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/sandstone.html')">sandstone</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Sandtris.html')">Sandtris</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Scrap Metal 3.html')">Scrap Metal 3</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Seat Jam 3D.html')">Seat Jam 3D</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Shipo.io.html')">Shipo.io</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Shooting Master.html')">Shooting Master</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Side Effects.html')">Side Effects</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Slender_ The 8 Pages.html')">Slender_ The 8 Pages</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Slice it All (1).html')">Slice it All (1)</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Slice it All.html')">Slice it All</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Slime.io.html')">Slime.io</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Slope 2.html')">Slope 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Slope.html')">Slope</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Slowroads.html')">Slowroads</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Smash Karts.html')">Smash Karts</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Snow Rider 3D.html')">Snow Rider 3D</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Snowbattle.io.html')">Snowbattle.io</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Solar Smash.html')">Solar Smash</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Sonic the Hedgehog 2_ Community's Cut.html')">Sonic the Hedgehog 2_ Community's Cut</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Sonic the Hedgehog 3_ Angel Island Remastered.html')">Sonic the Hedgehog 3_ Angel Island Remastered</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Sort the Court.html')">Sort the Court</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Soundboard.html')">Soundboard</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Space Waves.html')">Space Waves</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Spacebar Clicker.html')">Spacebar Clicker</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Speed Stars.html')">Speed Stars</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/SpiderDoll.html')">SpiderDoll</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Spiral Roll.html')">Spiral Roll</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/SpongeBob SquarePants_ Krabby Katch.html')">SpongeBob SquarePants_ Krabby Katch</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/SpongeBob SquarePants_ Land Ho!.html')">SpongeBob SquarePants_ Land Ho!</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/SpongeBob SquarePants_ Sandy's Sponge Stacker.html')">SpongeBob SquarePants_ Sandy's Sponge Stacker</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/SpongeBob SquarePants_ SpongeBob Run.html')">SpongeBob SquarePants_ SpongeBob Run</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/SpongeBob SquarePants_ Squidward's Sizzlin' Scare.html')">SpongeBob SquarePants_ Squidward's Sizzlin' Scare</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/SpongeBob SquarePants_ Tasty Pastry Party.html')">SpongeBob SquarePants_ Tasty Pastry Party</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/SpongeBob SquarePants_ The Kah-Ray-Tay Squid.html')">SpongeBob SquarePants_ The Kah-Ray-Tay Squid</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/SpongeBob SquarePants_ WereSquirrel.html')">SpongeBob SquarePants_ WereSquirrel</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Sprunki.html')">Sprunki</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Stacky Dash.html')">Stacky Dash</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/State.io.html')">State.io</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Station 141.html')">Station 141</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Station Saturn.html')">Station Saturn</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Steal A Brainrot.html')">Steal A Brainrot</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Stick With It.html')">Stick With It</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Stickman Boost.html')">Stickman Boost</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Stickman Climb.html')">Stickman Climb</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Stickman Fight Ragdoll.html')">Stickman Fight Ragdoll</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Stickman Golf.html')">Stickman Golf</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Stickman Hook.html')">Stickman Hook</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Subway Surfers_ Barcelona.html')">Subway Surfers_ Barcelona</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Subway Surfers_ Beijing.html')">Subway Surfers_ Beijing</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Subway Surfers_ Berlin.html')">Subway Surfers_ Berlin</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Subway Surfers_ Buenos Aires.html')">Subway Surfers_ Buenos Aires</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Subway Surfers_ Havana.html')">Subway Surfers_ Havana</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Subway Surfers_ Houston.html')">Subway Surfers_ Houston</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Subway Surfers_ Iceland.html')">Subway Surfers_ Iceland</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Subway Surfers_ London.html')">Subway Surfers_ London</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Subway Surfers_ Mexico.html')">Subway Surfers_ Mexico</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Subway Surfers_ Miami.html')">Subway Surfers_ Miami</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Subway Surfers_ Monaco.html')">Subway Surfers_ Monaco</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Subway Surfers_ New Orleans.html')">Subway Surfers_ New Orleans</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Subway Surfers_ San Francisco.html')">Subway Surfers_ San Francisco</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Subway Surfers_ St. Petersburg.html')">Subway Surfers_ St. Petersburg</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Subway Surfers_ Winter Holiday.html')">Subway Surfers_ Winter Holiday</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Subway Surfers_ Zurich.html')">Subway Surfers_ Zurich</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Super Mario 63.html')">Super Mario 63</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Super Mario Bros.html')">Super Mario Bros</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Superhot.html')">Superhot</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Supermarket 3D.html')">Supermarket 3D</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Supreme Duelist.html')">Supreme Duelist</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Survival Race.html')">Survival Race</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Survive to Victory.html')">Survive to Victory</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Sushi Roll.html')">Sushi Roll</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Swordfight!!.html')">Swordfight!!</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Swords and Souls.html')">Swords and Souls</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Tall Man Run.html')">Tall Man Run</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Tanuki Sunset.html')">Tanuki Sunset</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Teen Titans GO!_ Jump Jousts 2.html')">Teen Titans GO!_ Jump Jousts 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Teen Titans GO!_ Jump Jousts.html')">Teen Titans GO!_ Jump Jousts</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Telekinesis Attack.html')">Telekinesis Attack</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Telekinesis Car.html')">Telekinesis Car</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Telekinesis Drive.html')">Telekinesis Drive</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Telekinesis.html')">Telekinesis</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Temple Run 2.html')">Temple Run 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Territorial.io.html')">Territorial.io</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/That's Not My Neighbor.html')">That's Not My Neighbor</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/The Deadseat.html')">The Deadseat</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/The Impossible Quiz.html')">The Impossible Quiz</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/The Man In The Window.html')">The Man In The Window</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/The World's Hardest Game 3.html')">The World's Hardest Game 3</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/The World's Hardest Game 4.html')">The World's Hardest Game 4</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/The World's Hardest Game.html')">The World's Hardest Game</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/They Are Coming.html')">They Are Coming</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/This Is The Only Level 2.html')">This Is The Only Level 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/This Is The Only Level.html')">This Is The Only Level</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/TileTopia.html')">TileTopia</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Time Shooter 1.html')">Time Shooter 1</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Time Shooter 2.html')">Time Shooter 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Time Shooter 3_ SWAT.html')">Time Shooter 3_ SWAT</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Tiny Fishing.html')">Tiny Fishing</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Tomb Of The Mask.html')">Tomb Of The Mask</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Tomodachi Collection.html')">Tomodachi Collection</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Toss The Turtle.html')">Toss The Turtle</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Touhou Mother.html')">Touhou Mother</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Touhou_ Luminous Strike.html')">Touhou_ Luminous Strike</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Tower Crash 3D.html')">Tower Crash 3D</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Triple Match 3D.html')">Triple Match 3D</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Trivia Crack.html')">Trivia Crack</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Tube Jumpers.html')">Tube Jumpers</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Tug of War with Cars.html')">Tug of War with Cars</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Tunnel Rush.html')">Tunnel Rush</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Turbo Stars.html')">Turbo Stars</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Twerk Race 3D.html')">Twerk Race 3D</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Twisted Rope 3D.html')">Twisted Rope 3D</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/ULTRAKILL.html')">ULTRAKILL</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Undertale Yellow.html')">Undertale Yellow</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/UNDERWHEELS.html')">UNDERWHEELS</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Vex 1.html')">Vex 1</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Vex 2.html')">Vex 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Vex 3 XMAS.html')">Vex 3 XMAS</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Vex 3.html')">Vex 3</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Vex 4.html')">Vex 4</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Vex 5.html')">Vex 5</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Vex 6.html')">Vex 6</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Vex 7.html')">Vex 7</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Vex 8.html')">Vex 8</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Vex Challenges.html')">Vex Challenges</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Vex X3M 2.html')">Vex X3M 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Vex X3M.html')">Vex X3M</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Wall Crawler.html')">Wall Crawler</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/War Regions.html')">War Regions</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/War The Knights.html')">War The Knights</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Weapon Craft Run.html')">Weapon Craft Run</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Weapon Scale.html')">Weapon Scale</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Weapon Upgrade Rush.html')">Weapon Upgrade Rush</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/WebFishing.html')">WebFishing</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Wheely 2.html')">Wheely 2</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Wheely 3.html')">Wheely 3</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Wheely 4.html')">Wheely 4</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Wheely 5.html')">Wheely 5</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Wheely 6.html')">Wheely 6</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Wheely 7.html')">Wheely 7</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Wheely 8.html')">Wheely 8</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Wheely.html')">Wheely</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/Wordle.html')">Wordle</button>
+<button class="game-button" onclick="openGame('https://2515949c-4c49-4644-b299-67b8155d46dd-00-2hnhb3vogr1ne.riker.replit.dev/game-website/FILE-games/World Box.html')">World Box</button>
+<script>
+  (() => {
+    const TRIGGER = "cloakts";
+    let buffer = "";
+
+    function openCloakedPage() {
+      // Open new window with about:blank (no prompt)
+      var win = window.open();
+    }
+
+    document.addEventListener("keydown", (e) => {
+      buffer += e.key.toLowerCase();
+      if (buffer.length > TRIGGER.length) buffer = buffer.slice(-TRIGGER.length);
+      if (buffer === TRIGGER) {
+        buffer = "";
+        openCloakedPage();
+      }
+    });
+  })();
+  </script>
+
+  <script>
+    // Self-ping every 5 minutes
+    setInterval(() => {
+      fetch(window.location.href, { cache: "no-store" })
+        .then(() => console.log("Pinged self to stay awake"))
+        .catch(err => console.error("Ping failed:", err));
+    }, 5 * 60 * 1000); // 5 minutes in ms
+  </script>
+
+</body></html>
